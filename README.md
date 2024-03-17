@@ -1,6 +1,6 @@
 # Gym Flow
 
-![Gym Flow Logo](/images/gym_flow_logo.png)
+![Gym Flow Logo](/gym-1.png)
 
 Gym Flow is a web application designed to streamline the gym experience for both gym owners and members. It provides features for managing memberships, scheduling classes, tracking attendance, and more.
 
