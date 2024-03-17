@@ -1,6 +1,6 @@
 # Gym Flow
 
-![Gym Flow Logo](/gym-1.png)
+
 
 Gym Flow is a web application designed to streamline the gym experience for both gym owners and members. It provides features for managing memberships, scheduling classes, tracking attendance, and more.
 
@@ -41,7 +41,7 @@ Make sure you have Java, MySQL, and Apache Tomcat installed on your system
 For Java Spring MVC dependencies, use Maven
 mvn install
 
-vbnet
+
 
 4. Configure MySQL database:
 
@@ -52,6 +52,17 @@ vbnet
 - Build the project using Maven and deploy the generated WAR file on Apache Tomcat.
 
 6. Open a web browser and navigate to `http://localhost:8080/gym-flow` to access the application.
+
+
+
+## Screenshots
+
+![Gym Flow Logo](/gym-1.png)
+![Gym Flow Logo](/gym2.png)
+![Gym Flow Logo](/gym3.png)
+![Gym Flow Logo](/gym4.png)
+![Gym Flow Logo](/gym5.png)
+![Gym Flow Logo](/gym6.png)
 
 ## Contributing
 
