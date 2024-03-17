@@ -62,7 +62,7 @@ mvn install
 ![Gym Flow Logo](/gym3.png)
 ![Gym Flow Logo](/gym4.png)
 ![Gym Flow Logo](/gym5.png)
-![Gym Flow Logo](/gym6.png)
+![Gym Flow Logo](/hym6.png)
 
 ## Contributing
 
