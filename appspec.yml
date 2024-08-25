@@ -1,0 +1,16 @@
+version: 0.0
+os: linux
+files:
+  - source: /target/gym-gym.war
+    destination: /opt/tomcat/apache-tomcat-9.0.93/webapps/
+
+hooks:
+  BeforeInstall:
+    - location: scripts/clean_tomcat.sh
+      timeout: 300
+      runas: root
+
+  ApplicationStart:
+    - location: scripts/restart_server.sh
+      timeout: 300
+      runas: root
